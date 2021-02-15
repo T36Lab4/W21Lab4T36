@@ -4,5 +4,5 @@ public class octagon extends Shape {
      octagon(){
          super();
      }
-     String color = "aquamarine";
+     
 }
